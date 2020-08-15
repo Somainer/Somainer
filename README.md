@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning 
+<code><img height="20" src="https://github.com/github/explore/blob/master/topics/rust/rust.png?raw=true"></code>
+- 📫 How to reach me: me [at] roselia.moe
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=somainer&layout=compact)](https://github.com/Somainer)
 <!--
 **Somainer/Somainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
